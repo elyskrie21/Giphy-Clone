@@ -8,13 +8,13 @@ html {
 }
 
 html {
-  background: black;
+  background-color: rgb(18, 18, 18);
 }
 
 body {
   padding-top: 10px;
-  background-color: black;
   color: white;
+  background-color: rgb(18, 18, 18);
   font-family: interface, "Helvetica Neue", helvetica, sans-serif;
   font-size: 16px;
   margin: 0px auto;
